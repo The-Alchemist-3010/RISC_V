@@ -1,0 +1,11 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-gui
+-access
++rwc
+-sv
+../01_bench/tbench.sv
+-f
+flist

@@ -1,0 +1,180 @@
+s1(17Nov2024:08:30:05):  xrun -access +rwc -f ./flist 
+s2(17Nov2024:08:32:36):  xrun -access +rwc -f ./flist 
+s3(17Nov2024:08:35:24):  xrun -access +rwc -f ./flist 
+s4(17Nov2024:08:39:37):  xrun -access +rwc -f ./flist 
+s5(17Nov2024:08:40:30):  xrun -access +rwc -f ./flist 
+s6(17Nov2024:08:47:06):  xrun -access +rwc -f ./flist 
+s7(17Nov2024:08:47:29):  xrun -access +rwc -f ./flist 
+s8(17Nov2024:08:47:35):  xrun -access +rwc -f ./flist 
+s9(17Nov2024:08:50:22):  xrun -access +rwc -f ./flist 
+s10(17Nov2024:09:00:22):  xrun -access +rwc -f ./flist 
+s11(17Nov2024:09:00:55):  xrun -access +rwc -f ./flist 
+s12(17Nov2024:09:01:27):  xrun -access +rwc -f ./flist 
+s13(17Nov2024:09:06:52):  xrun -access +rwc -f ./flist 
+s14(17Nov2024:09:07:07):  xrun -access +rwc -f ./flist 
+s15(17Nov2024:09:12:10):  xrun -access +rwc -f ./flist 
+s16(17Nov2024:09:41:15):  xrun -access +rwc -f ./flist 
+s17(17Nov2024:09:44:28):  xrun -access +rwc -f ./flist 
+s18(17Nov2024:09:48:11):  xrun -access +rwc -f ./flist 
+s19(17Nov2024:09:48:56):  xrun -access +rwc -f ./flist 
+s20(17Nov2024:09:50:41):  xrun -access +rwc -f ./flist 
+s21(17Nov2024:09:55:10):  xrun -access +rwc -f ./flist 
+s22(17Nov2024:09:55:18):  xrun -access +rwc -f ./flist 
+s23(17Nov2024:09:55:34):  xrun -access +rwc -f ./flist 
+s24(17Nov2024:10:03:37):  xrun -access +rwc -f ./flist 
+s25(17Nov2024:10:05:43):  xrun -access +rwc -f ./flist 
+s26(17Nov2024:10:08:34):  xrun -access +rwc -f ./flist 
+s27(17Nov2024:10:10:27):  xrun -access +rwc -f ./flist 
+s28(17Nov2024:10:13:21):  xrun -access +rwc -f ./flist 
+s29(17Nov2024:10:16:21):  xrun -access +rwc -f ./flist 
+s30(17Nov2024:10:21:57):  xrun -access +rwc -f ./flist 
+s31(17Nov2024:10:24:25):  xrun -access +rwc -f ./flist 
+s32(17Nov2024:10:30:39):  xrun -access +rwc -f ./flist 
+s33(17Nov2024:10:31:11):  xrun -access +rwc -f ./flist 
+s34(17Nov2024:10:31:29):  xrun -access +rwc -f ./flist 
+s35(17Nov2024:10:31:39):  xrun -access +rwc -f ./flist 
+s36(17Nov2024:11:01:26):  xrun -access +rwc -f ./flist 
+s37(17Nov2024:11:05:16):  xrun -access +rwc -f ./flist 
+s38(17Nov2024:11:05:26):  xrun -access +rwc -f ./flist 
+s39(17Nov2024:11:05:33):  xrun -access +rwc -f ./flist 
+s40(17Nov2024:11:44:36):  xrun -access +rwc -f ./flist 
+s41(17Nov2024:11:46:05):  xrun -access +rwc -f ./flist 
+s42(17Nov2024:12:04:50):  xrun -access +rwc -f ./flist 
+s43(17Nov2024:12:05:09):  xrun -access +rwc -f ./flist 
+s44(17Nov2024:12:08:39):  xrun -access +rwc -f ./flist 
+s45(17Nov2024:12:10:20):  xrun -access +rwc -f ./flist 
+s46(17Nov2024:12:11:33):  xrun -access +rwc -f ./flist 
+s47(17Nov2024:12:13:50):  xrun -access +rwc -f ./flist 
+s48(17Nov2024:12:23:12):  xrun -access +rwc -f ./flist 
+s49(17Nov2024:12:49:51):  xrun -access +rwc -f ./flist 
+s50(17Nov2024:13:06:12):  xrun -access +rwc -f ./flist 
+s51(17Nov2024:13:12:26):  xrun -access +rwc -f ./flist 
+s52(17Nov2024:13:16:25):  xrun -access +rwc -f ./flist 
+s53(17Nov2024:13:17:50):  xrun -access +rwc -f ./flist 
+s54(17Nov2024:13:32:25):  xrun -access +rwc -f ./flist 
+s55(17Nov2024:13:44:29):  xrun -access +rwc -f ./flist 
+s56(17Nov2024:13:54:10):  xrun -access +rwc -f ./flist 
+s57(17Nov2024:14:01:07):  xrun -access +rwc -f ./flist 
+s58(17Nov2024:18:14:17):  xrun -access +rwc -f ./flist 
+s59(17Nov2024:18:18:50):  xrun -access +rwc -f ./flist 
+s60(17Nov2024:18:19:30):  xrun -access +rwc -f ./flist 
+s61(17Nov2024:18:19:50):  xrun -access +rwc -f ./flist 
+s62(17Nov2024:18:22:43):  xrun -access +rwc -f ./flist 
+s63(17Nov2024:18:26:57):  xrun -access +rwc -f ./flist 
+s64(17Nov2024:18:29:06):  xrun -access +rwc -f ./flist 
+s65(17Nov2024:18:29:54):  xrun -access +rwc -f ./flist 
+s66(17Nov2024:18:32:14):  xrun -access +rwc -f ./flist 
+s67(17Nov2024:18:36:20):  xrun -access +rwc -f ./flist 
+s68(17Nov2024:18:36:59):  xrun -access +rwc -f ./flist 
+s69(17Nov2024:18:45:59):  xrun -access +rwc -f ./flist 
+s70(17Nov2024:19:59:59):  xrun -access +rwc -f ./flist 
+s71(17Nov2024:20:30:38):  xrun -access +rwc -f ./flist 
+s72(17Nov2024:21:48:58):  xrun -access +rwc -f ./flist 
+s73(18Nov2024:10:55:51):  xrun -access +rwc -f ./flist 
+s74(10Dec2024:16:01:56):  xrun -access +rwc -f ./flist 
+s75(10Dec2024:16:03:49):  xrun -access +rwc -f ./flist 
+s76(10Dec2024:16:09:19):  xrun -access +rwc -f ./flist 
+s77(10Dec2024:16:10:37):  xrun -access +rwc -f ./flist 
+s78(10Dec2024:16:13:30):  xrun -access +rwc -f ./flist 
+s79(10Dec2024:16:13:40):  xrun -access +rwc -f ./flist 
+s80(10Dec2024:16:17:10):  xrun -access +rwc -f ./flist 
+s81(10Dec2024:16:17:23):  xrun -access +rwc -f ./flist 
+s82(10Dec2024:16:23:40):  xrun -access +rwc -f ./flist 
+s83(10Dec2024:16:38:11):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s84(10Dec2024:16:45:51):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s85(10Dec2024:18:00:14):  xrun -access +rwc -f ./flist 
+s86(10Dec2024:18:01:32):  xrun -access +rwc -f ./flist 
+s87(10Dec2024:18:01:51):  xrun -access +rwc -f ./flist 
+s88(10Dec2024:18:03:24):  xrun -access +rwc -f ./flist 
+s89(10Dec2024:18:06:14):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s90(11Dec2024:19:32:17):  xrun -access +rwc -f ./flist 
+s91(11Dec2024:19:38:41):  xrun -access +rwc -f ./flist 
+s92(11Dec2024:19:40:19):  xrun -access +rwc -f ./flist 
+s93(11Dec2024:19:43:10):  xrun -access +rwc -f ./flist 
+s94(11Dec2024:19:45:18):  xrun -gui -acess +rwc -sv ../01_bench/tbench.sv -f flist 
+s95(11Dec2024:19:45:56):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s96(11Dec2024:20:12:51):  xrun -access +rwc -f ./flist 
+s97(11Dec2024:20:14:42):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s98(12Dec2024:00:27:29):  xrun -access +rwc -f ./flist 
+s99(12Dec2024:00:31:38):  xrun -access +rwc -f ./flist 
+s100(12Dec2024:00:32:48):  xrun -gui -access +rwc -sv ../01_bench/tbench_sv -f flist 
+s101(12Dec2024:00:33:45):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s102(12Dec2024:00:47:02):  xrun -access +rwc -f ./flist 
+s103(12Dec2024:00:47:35):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s104(12Dec2024:00:58:10):  xrun -access +rwc -f ./flist 
+s105(12Dec2024:00:58:23):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s106(12Dec2024:10:40:11):  xrun -access +rwc -f ./flist 
+s107(12Dec2024:11:07:04):  xrun -access +rwc -f ./flist 
+s108(12Dec2024:11:07:39):  xrun -access +rwc -f ./flist 
+s109(12Dec2024:11:09:09):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s110(12Dec2024:11:26:53):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s111(12Dec2024:11:35:45):  xrun -access +rwc -f ./flist 
+s112(12Dec2024:11:38:52):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s113(12Dec2024:12:42:31):  xrun -access +rwc -f ./flist 
+s114(12Dec2024:12:43:08):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s115(12Dec2024:13:09:40):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s116(12Dec2024:13:26:43):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s117(12Dec2024:13:32:03):  xrun -access +rwc -f ./flist 
+s118(12Dec2024:13:41:33):  xrun -access +rwc -f ./flist 
+s119(12Dec2024:13:42:05):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s120(12Dec2024:14:34:56):  xrun -access +rwc -f ./flist 
+s121(12Dec2024:14:37:42):  xrun -access +rwc -f ./flist 
+s122(12Dec2024:15:51:53):  xrun -access +rwc -f ./flist 
+s123(12Dec2024:15:53:42):  xrun -access +rwc -f ./flist 
+s124(12Dec2024:15:54:03):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s125(12Dec2024:16:25:17):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s126(12Dec2024:16:36:48):  xrun -access +rwc -f ./flist 
+s127(12Dec2024:16:54:23):  xrun -access +rwc -f ./flist 
+s128(12Dec2024:17:05:35):  xrun -access +rwc -f ./flist 
+s129(12Dec2024:17:10:34):  xrun -access +rwc -f ./flist 
+s130(12Dec2024:17:11:28):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s131(12Dec2024:17:48:04):  xrun -access +rwc -f ./flist 
+s132(12Dec2024:17:48:30):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s133(12Dec2024:17:51:51):  xrun -access +rwc -f ./flist 
+s134(12Dec2024:17:52:06):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s135(12Dec2024:18:11:40):  xrun -access +rwc -f ./flist 
+s136(12Dec2024:18:12:21):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s137(12Dec2024:19:37:20):  xrun -access +rwc -f ./flist 
+s138(12Dec2024:19:37:31):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s139(12Dec2024:20:43:28):  xrun -access +rwc -f ./flist 
+s140(12Dec2024:20:43:35):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s141(12Dec2024:21:07:26):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s142(12Dec2024:21:08:19):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s143(12Dec2024:21:23:38):  xrun -access +rwc -f ./flist 
+s144(12Dec2024:21:23:57):  xrun -access +rwc -f ./flist 
+s145(12Dec2024:21:24:22):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s146(12Dec2024:21:46:44):  xrun -access +rwc -f ./flist 
+s147(12Dec2024:21:47:39):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s148(12Dec2024:21:50:43):  xrun -access +rwc -f ./flist 
+s149(12Dec2024:21:52:15):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s150(12Dec2024:22:01:19):  xrun -access +rwc -f ./flist 
+s151(12Dec2024:22:04:39):  xrun -access +rwc -f ./flist 
+s152(12Dec2024:22:05:23):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s153(12Dec2024:22:30:20):  xrun -access +rwc -f ./flist 
+s154(12Dec2024:22:30:44):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s155(12Dec2024:23:15:43):  xrun -access +rwc -f ./flist 
+s156(12Dec2024:23:17:00):  xrun -access +rwc -f ./flist 
+s157(12Dec2024:23:19:19):  xrun -access +rwc -f ./flist 
+s158(12Dec2024:23:20:06):  xrun -access +rwc -f ./flist 
+s159(12Dec2024:23:23:14):  xrun -access +rwc -f ./flist 
+s160(12Dec2024:23:23:40):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s161(13Dec2024:00:02:01):  xrun -access +rwc -f ./flist 
+s162(15Dec2024:16:31:32):  xrun -access +rwc -f ./flist 
+s163(15Dec2024:16:34:31):  xrun -access +rwc -f ./flist 
+s164(15Dec2024:16:34:51):  xrun -access +rwc -f ./flist 
+s165(15Dec2024:16:36:26):  xrun -access +rwc -f ./flist 
+s166(15Dec2024:16:37:51):  xrun -access +rwc -f ./flist 
+s167(15Dec2024:16:39:24):  xrun -access +rwc -f ./flist 
+s168(15Dec2024:16:40:44):  xrun -access +rwc -f ./flist 
+s169(15Dec2024:16:43:22):  xrun -access +rwc -f ./flist 
+s170(15Dec2024:16:44:02):  xrun -access +rwc -f ./flist 
+s171(15Dec2024:16:44:27):  xrun -access +rwc -f ./flist 
+s172(15Dec2024:16:46:41):  xrun -access +rwc -f ./flist 
+s173(15Dec2024:16:47:58):  xrun -access +rwc -f ./flist 
+s174(15Dec2024:16:49:02):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s175(15Dec2024:16:57:32):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s176(15Dec2024:17:33:43):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s177(15Dec2024:17:36:14):  xrun -access +rwc -f ./flist 
+s178(15Dec2024:17:36:29):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s179(15Dec2024:17:43:46):  xrun -gui -access +rwc -sv ../01_bench/tbench.sv -f flist 
+s180(15Dec2024:17:45:31):  xrun -access +rwc -f ./flist 

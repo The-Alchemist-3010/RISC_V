@@ -1,0 +1,29 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/singlecycle.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/EX_ALU.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/EX_BRC.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/EX.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/HAZARD_DETECT.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/ID_CONTROLLER.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/ID_IMMGEN.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/ID_REGFILE.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/ID.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/IF_INST_MEM.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/IF_MUX_PC.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/IF_PC_FOUR.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/IF_PC.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/IF.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/MEM_LSU.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/MEM.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/REG_EX_MEM.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/REG_ID_EX.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/REG_IF_ID.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/REG_MEM_WB.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/00_src/WB.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/01_bench/tlib.svh
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/01_bench/driver.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/01_bench/scoreboard.sv
+/earth/class/comparch/ee3043/ca113/Documents/pipeline_non_done/01_bench/tbench.sv

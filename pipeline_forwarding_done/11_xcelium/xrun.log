@@ -1,0 +1,260 @@
+xrun(64): 23.09-s003: (c) Copyright 1995-2023 Cadence Design Systems, Inc.
+TOOL:	xrun(64)	23.09-s003: Started on Dec 15, 2024 at 17:45:31 +07
+xrun
+	-access +rwc
+	-f ./flist
+		-sv
+		-timescale 1ns/100ps
+		./../00_src/singlecycle.sv
+		./../00_src/EX_ALU.sv
+		./../00_src/EX_BRC.sv
+		./../00_src/EX.sv
+		./../00_src/HAZARD_DETECT.sv
+		./../00_src/ID_CONTROLLER.sv
+		./../00_src/ID_IMMGEN.sv
+		./../00_src/ID_REGFILE.sv
+		./../00_src/ID.sv
+		./../00_src/IF_INST_MEM.sv
+		./../00_src/IF_MUX_PC.sv
+		./../00_src/IF_PC_FOUR.sv
+		./../00_src/IF_PC.sv
+		./../00_src/IF.sv
+		./../00_src/MEM_LSU.sv
+		./../00_src/MEM.sv
+		./../00_src/REG_EX_MEM.sv
+		./../00_src/REG_ID_EX.sv
+		./../00_src/REG_IF_ID.sv
+		./../00_src/REG_MEM_WB.sv
+		./../00_src/WB.sv
+		./../01_bench/tlib.svh
+		./../01_bench/driver.sv
+		./../01_bench/scoreboard.sv
+		./../01_bench/tbench.sv
+		+xmtop+tbench
+file: ./../00_src/singlecycle.sv
+	module worklib.singlecycle:sv
+		errors: 0, warnings: 0
+file: ./../00_src/EX_ALU.sv
+	module worklib.EX_ALU:sv
+		errors: 0, warnings: 0
+	module worklib.alu:sv
+		errors: 0, warnings: 0
+file: ./../00_src/EX_BRC.sv
+	module worklib.EX_BRC:sv
+		errors: 0, warnings: 0
+	module worklib.addsub_1:sv
+		errors: 0, warnings: 0
+file: ./../00_src/EX.sv
+	module worklib.EX:sv
+		errors: 0, warnings: 0
+file: ./../00_src/HAZARD_DETECT.sv
+	module worklib.HAZARD_DETECT:sv
+		errors: 0, warnings: 0
+file: ./../00_src/ID_CONTROLLER.sv
+	module worklib.ID_CONTROLLER:sv
+		errors: 0, warnings: 0
+file: ./../00_src/ID_IMMGEN.sv
+	module worklib.ID_IMMGEN:sv
+		errors: 0, warnings: 0
+file: ./../00_src/ID_REGFILE.sv
+	module worklib.ID_REGFILE:sv
+		errors: 0, warnings: 0
+file: ./../00_src/ID.sv
+	module worklib.ID:sv
+		errors: 0, warnings: 0
+file: ./../00_src/IF_INST_MEM.sv
+	module worklib.IF_INST_MEM:sv
+		errors: 0, warnings: 0
+file: ./../00_src/IF_MUX_PC.sv
+	module worklib.IF_MUX_PC:sv
+		errors: 0, warnings: 0
+file: ./../00_src/IF_PC_FOUR.sv
+	module worklib.IF_PC_FOUR:sv
+		errors: 0, warnings: 0
+file: ./../00_src/IF_PC.sv
+	module worklib.IF_PC:sv
+		errors: 0, warnings: 0
+file: ./../00_src/IF.sv
+	module worklib.IF:sv
+		errors: 0, warnings: 0
+file: ./../00_src/MEM_LSU.sv
+	module worklib.MEM_LSU:sv
+		errors: 0, warnings: 0
+	module worklib.output_buffer:sv
+		errors: 0, warnings: 0
+	module worklib.input_buffer:sv
+		errors: 0, warnings: 0
+        mem_array[idx] <= 8'b0;
+                    |
+xmvlog: *W,BIGWIX (./../00_src/MEM_LSU.sv,333|20): Memory index truncation.
+	module worklib.data_mem:sv
+		errors: 0, warnings: 1
+file: ./../00_src/MEM.sv
+	module worklib.MEM:sv
+		errors: 0, warnings: 0
+file: ./../00_src/REG_EX_MEM.sv
+	module worklib.REG_EX_MEM:sv
+		errors: 0, warnings: 0
+file: ./../00_src/REG_ID_EX.sv
+	module worklib.REG_ID_EX:sv
+		errors: 0, warnings: 0
+file: ./../00_src/REG_IF_ID.sv
+	module worklib.REG_IF_ID:sv
+		errors: 0, warnings: 0
+file: ./../00_src/REG_MEM_WB.sv
+	module worklib.REG_MEM_WB:sv
+		errors: 0, warnings: 0
+file: ./../00_src/WB.sv
+	module worklib.WB:sv
+		errors: 0, warnings: 0
+file: ./../01_bench/driver.sv
+	module worklib.driver:sv
+		errors: 0, warnings: 0
+file: ./../01_bench/scoreboard.sv
+	module worklib.scoreboard:sv
+		errors: 0, warnings: 0
+file: ./../01_bench/tbench.sv
+	module worklib.tbench:sv
+		errors: 0, warnings: 0
+	Elaborating the design hierarchy:
+		Caching library 'worklib' ....... Done
+	Top level design units:
+		$unit_0x3b8ea4b2
+		tbench
+	Building instance overlay tables: ......
+        $readmemh("../02_test/dump/mem.dump", imem);
+                                                 |
+xmelab: *W,MEMODR (../00_src/IF_INST_MEM.sv,8|49): $readmem default memory order incompatible with IEEE1364.
+............
+        mem_array[idx] <= 8'b0;
+                    |
+xmelab: *W,BIGWIX (../00_src/MEM_LSU.sv,333|20): Memory index truncation.
+.. Done
+	Generating native compiled code:
+		worklib.scoreboard:sv <0x074d44a3>
+			streams:   2, words: 53396
+		worklib.WB:sv <0x7bb07eca>
+			streams:   1, words:   440
+		worklib.REG_MEM_WB:sv <0x375fc7c4>
+			streams:   3, words:  2037
+		worklib.data_mem:sv <0x6d066f5e>
+			streams:   5, words:  6956
+		worklib.output_buffer:sv <0x6fccd6b6>
+			streams:  17, words: 11755
+		worklib.input_buffer:sv <0x0b52c1a1>
+			streams:   4, words:  5353
+		worklib.MEM_LSU:sv <0x3980a299>
+			streams:  15, words:  6910
+		worklib.MEM:sv <0x481cb2e1>
+			streams:  11, words:  4494
+		worklib.REG_EX_MEM:sv <0x4bfb7f2c>
+			streams:   4, words:  3792
+		worklib.addsub_1:sv <0x1c8b9bb5>
+			streams:   5, words:  1679
+		worklib.EX_BRC:sv <0x769d1b91>
+			streams:   1, words:   153
+		worklib.alu:sv <0x4d6ed039>
+			streams:   8, words: 13304
+		worklib.EX_ALU:sv <0x01a36a90>
+			streams:   1, words:   375
+		worklib.EX:sv <0x47aeb68c>
+			streams:  10, words:  3448
+		worklib.REG_ID_EX:sv <0x2d4be541>
+			streams:   5, words: 10333
+		worklib.ID_CONTROLLER:sv <0x15798332>
+			streams:  11, words:  8679
+		worklib.ID_IMMGEN:sv <0x5f3ec677>
+			streams:   1, words:  1579
+		worklib.ID_REGFILE:sv <0x18e76b62>
+			streams:   5, words:  2178
+		worklib.ID:sv <0x71c450d3>
+			streams:  16, words:  6162
+		worklib.REG_IF_ID:sv <0x52b39ab0>
+			streams:   5, words:  1870
+		worklib.IF_INST_MEM:sv <0x74de7a73>
+			streams:   2, words:   534
+		worklib.IF_MUX_PC:sv <0x4dfbf3d9>
+			streams:   1, words:   244
+		worklib.IF_PC_FOUR:sv <0x7105cbab>
+			streams:   1, words:   177
+		worklib.IF_PC:sv <0x2c337e42>
+			streams:   2, words:   507
+		worklib.IF:sv <0x1aabeff2>
+			streams:   8, words:  2095
+		worklib.HAZARD_DETECT:sv <0x719ccbcc>
+			streams:   6, words:  7314
+		worklib.singlecycle:sv <0x38bfb647>
+			streams: 136, words: 33695
+		worklib.driver:sv <0x4d05cb0e>
+			streams:   3, words:  1060
+		worklib.tbench:sv <0x41c97866>
+			streams:  34, words:  8748
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                   Instances  Unique
+		Modules:                  29      29
+		Registers:               278     278
+		Scalar wires:            125       -
+		Expanded wires:           32       1
+		Vectored wires:          317       -
+		Always blocks:            25      25
+		Initial blocks:            5       5
+		Cont. assignments:        46      69
+		Pseudo assignments:      219       -
+		Compilation units:         1       1
+		Process Clocks:            9       3
+		Simulation timescale:  100ps
+	Writing initial simulation snapshot: worklib.tbench:sv
+Loading snapshot worklib.tbench:sv .................... Done
+xcelium> source /tools/cadence/XCELIUM2309/tools/xcelium/files/xmsimrc
+xcelium> run
+TEST for SINGLECYCLE
+[     2600]:: 1::ADD...............PASSED
+[     5400]:: 2::SUB...............PASSED
+[     9000]:: 3::XOR...............PASSED
+[    12800]:: 4::OR................PASSED
+[    16600]:: 5::AND...............PASSED
+[    20400]:: 6::SLL...............PASSED
+[    23600]:: 7::SRL...............PASSED
+[    27200]:: 8::SRA...............PASSED
+[    30800]:: 9::SLT...............PASSED
+[    34200]::10::SLTU..............PASSED
+[    37600]::11::ADDI..............PASSED
+[    40600]::12::XORI..............PASSED
+[    44000]::13::ORI...............PASSED
+[    47400]::14::ANDI..............PASSED
+[    50600]::15::SLLI..............PASSED
+[    53600]::16::SRLI..............PASSED
+[    57000]::17::SRAI..............PASSED
+[    60400]::18::SLTI..............PASSED
+[    63600]::19::SLTIU.............PASSED
+[    66800]::20::LUI...............PASSED
+[    69800]::21::AUIPC.............PASSED
+[    72600]::22::LW................PASSED
+[    82600]::23::LH................PASSED
+[    90000]::24::LB................PASSED
+[    96600]::25::LHU...............PASSED
+[   104200]::26::LBU...............PASSED
+[   110800]::27::SW................PASSED
+[   116400]::28::SH................PASSED
+[   120600]::29::SB................PASSED
+[   124600]::30::misaligned........PASSED
+[   128800]::31::BEQ...............PASSED
+[   131600]::32::BNE...............PASSED
+[   134200]::33::BLT...............PASSED
+[   139400]::34::BGE...............PASSED
+[   145400]::35::BLTU..............PASSED
+[   150600]::36::BGEU..............PASSED
+[   156600]::37::JAL...............PASSED
+[   160000]::38::JALR..............PASSED
+[   163400]::39::illegal_insn......PASSED
+
+Timeout...
+
+DUT is considered	P A S S E D
+
+Simulation complete via $finish(1) at time 50 US + 0
+../01_bench/tlib.svh:22             $finish;
+xcelium> exit
+TOOL:	xrun(64)	23.09-s003: Exiting on Dec 15, 2024 at 17:45:32 +07  (total: 00:00:01)
